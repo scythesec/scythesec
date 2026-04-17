@@ -1,16 +1,12 @@
+
+<p align="center">
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-7.gif" width="100%" />
+</p>
+
+---
 ## Hi there 👋
 
-<!--
-**scythesec/scythesec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm scythesec, an Ethical Hacker, Bug Bounty Hunter and Sr. Cybersecurity Specialist. 
+From a young age, I've had a strong passion for hacking, and now I specialize in Cybersecurity Research, ethical hacking,
+and BUg Bounty Hunting. My main goal is to play part in for a more secure online community, by analizing risk, threats, 
+and contribute to protect digital assets and ensure compliance.
