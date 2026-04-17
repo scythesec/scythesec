@@ -11,6 +11,6 @@
 ## Hi there 👋
 
 I'm scythesec, an Ethical Hacker, Bug Bounty Hunter and Sr. Cybersecurity Specialist. 
-From a young age, I've had a strong passion for hacking, and now I specialize in Cybersecurity Research, ethical hacking,
-and BUg Bounty Hunting. My main goal is to play part in for a more secure online community, by analizing risk, threats, 
+From a young age, I've had a strong passion for hacking, and now I specialize in Cybersecurity Research, Ethical Hacking,
+and Bug Bounty Hunting. My main goal is to play part in for a more secure online community, by analizing risk, threats, 
 and contribute to protect digital assets and ensure compliance.
