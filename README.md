@@ -3,6 +3,9 @@
   <img src="https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-7.gif" width="100%" />
 </p>
 
+<p align="center">
+  <img src="Welcome.gif" width="50% height="30%" />
+</p>
 ---
 ## Hi there 👋
 
